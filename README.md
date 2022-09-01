@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/indeokiya?theme=unicorn)
