@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/indeokiya?theme=wtf)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=indeokiya)](https://solved.ac/indeokiya)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indeokiya&layout=compact&theme=dark)
