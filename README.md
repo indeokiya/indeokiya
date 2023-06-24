@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/indeokiya?theme=light,unicorn)
-## Baekjoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=indeokiya)](https://solved.ac/indeokiya)
 ## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indeokiya&layout=compact&theme=dark)
