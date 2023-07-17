@@ -1,5 +1,5 @@
 # Indeok Jeon
-
+----
 <!--
 **indeokiya/indeokiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Leetcode
+![Leetcode Stats](https://leetcard.jacoblin.cool/indeokiya?ext=activity)
+----
 ## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indeokiya&layout=compact&theme=dark)
