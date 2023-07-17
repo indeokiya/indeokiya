@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ## Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/indeokiya?ext=activity)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=indeokiya)](https://solved.ac/indeokiya)
+<a href="https://solved.ac/indeokiya"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=indeokiya&theme=dark"/></a>
+
+
 ----
 ## Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indeokiya&layout=compact&theme=dark)
