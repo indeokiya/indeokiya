@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/indeokiya?ext=activity)
+## Data Structures & Algorithms
+<a href="https://leetcode.com/indeokiya"><img align="left" src="https://leetcard.jacoblin.cool/indeokiya?ext=activity"/></a>
 <a href="https://solved.ac/indeokiya"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=indeokiya&theme=dark"/></a>
 
 
